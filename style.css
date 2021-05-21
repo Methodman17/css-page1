@@ -9,3 +9,23 @@
 .container-cars-images {
     text-align: center; 
 }
+.footer {
+    
+    background-color: black; 
+}
+.copyright {
+    text-align: center;
+    color:white;
+    font-size: 20px;
+}
+.body {
+  padding-left: 550px; 
+  padding-right: 550px;
+  padding-top: 50px;
+}
+.colortext {
+    color: blue;
+}
+.lorem {
+    font-size: 18px;
+}
