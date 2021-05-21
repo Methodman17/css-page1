@@ -9,3 +9,21 @@
 .container-cars-images {
     text-align: center; 
 }
+.footer {
+    
+    background-color: black; 
+}
+.copytight {
+    text-align: center;
+    color:white;
+    font-size: 20px;
+}
+.body {
+    
+}
+.colortext {
+    color: blue;
+}
+.lorem {
+    font-size: 18px;
+}
